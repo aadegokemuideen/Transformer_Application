@@ -1,2 +1,2 @@
 # Transformer_Application
-This repo describe a short project on how to use transfomer architecture/ model for natural language processing task
+This repo describes a short project on how to use transformer architecture/ model for a natural language processing task
